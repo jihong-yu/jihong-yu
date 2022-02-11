@@ -1,4 +1,8 @@
+
+
 ### Hi there 👋
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+<- readme 대문을 꾸미는 사이트!!
 
 <!--
 **jihong-yu/jihong-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
